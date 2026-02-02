@@ -21,6 +21,6 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 ## Project Documents
 
-Scope, goals, and risk assessment
+<a href="https://github.com/ivanszeto11/Security-Audit-Assignment/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf">Scope, goals, and risk assessment</a>
 Controls and compliance checklist
 
