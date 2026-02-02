@@ -19,5 +19,8 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 - Understanding the steps involved in completing a security audit
 - Performing a control and compliance assessment
 
-## Project
+## Project Documents
+
+Scope, goals, and risk assessment
+Controls and compliance checklist
 
