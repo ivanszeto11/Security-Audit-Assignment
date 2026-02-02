@@ -16,11 +16,12 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 ### Skills Learned
 
-- Understanding the steps involved in completing a security audit
-- Performing a control and compliance assessment
+- Understanding of the steps involved in completing a security audit
+- Ability to perform a control and compliance assessment
+- Communication of recommendations for improved security controls
 
 ## Project Documents
 
-<a href="https://github.com/ivanszeto11/Security-Audit-Assignment/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf">Scope, goals, and risk assessment</a>
-Controls and compliance checklist
+<a href="https://github.com/ivanszeto11/Security-Audit-Assignment/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf">Scope, goals, and risk assessment</a>  
+<a href="https://github.com/ivanszeto11/Security-Audit-Assignment/blob/main/Controls%20and%20compliance%20checklist.pdf">Controls and compliance checklist</a>
 
